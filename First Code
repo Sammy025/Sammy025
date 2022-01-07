@@ -1,0 +1,8 @@
+using System;
+class Sammy
+{
+static void Main
+{
+Console.WriteLine("Hello there");
+}
+}
